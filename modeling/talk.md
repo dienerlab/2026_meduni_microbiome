@@ -5,7 +5,8 @@
 Christian Diener<br>
 D&RI of Hygiene, Microbiology and Environmental Medicine
 
-MOLMED Microbiome Course 2026
+MOLMED Microbiome Course 2026<br>
+Slides: https://dienerlab.github.io/2026_meduni_microbiome/modeling
 
 <img src="assets/meduni/logo_slogan_dark.png" width="30%">
 
