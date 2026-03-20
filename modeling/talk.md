@@ -183,7 +183,7 @@ Quinn-Bohmann et al. 2026, https://doi.org/10.1371/journal.pbio.3003638
 **Checking for probiotic engraftment and impact.**<br>
 We will simulate an incoming <i>Lactobacillus</i> for healthy samples from the iHMP project.
 
-Notebook: https://colab.research.google.com/github/dienerlab/2024_micom_intro/blob/main/micom.ipynb
+Notebook: https://colab.research.google.com/github/dienerlab/2026_meduni_microbiome/blob/main/micom.ipynb
 <br>(you will need a Google Account)
 
 ---
