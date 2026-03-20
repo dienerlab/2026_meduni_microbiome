@@ -1,6 +1,6 @@
 <!-- .slide: data-background="assets/backdrop.webp" class="dark no-logo" -->
 
-# A primer of metabolic modeling of microbial communities
+# A primer in metabolic modeling of microbial communities
 
 Christian Diener<br>
 D&RI of Hygiene, Microbiology and Environmental Medicine
